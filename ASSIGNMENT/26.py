@@ -15,3 +15,4 @@ if(sum==int(n)):
     print("strong number")
 else:
     print("not strong number")
+#Copyright @Amol Paliwal

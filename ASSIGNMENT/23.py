@@ -8,3 +8,4 @@ def ispalindrome(s):
 s=input("enter any string:")
 
 print(ispalindrome(s))
+#Copyright @Amol Paliwal

@@ -7,3 +7,5 @@ else:
   sum = 4 * (a+b+c)
 
 print(sum)
+
+#Copyright @Amol Paliwal

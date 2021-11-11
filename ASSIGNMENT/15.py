@@ -29,3 +29,4 @@ a=int(input("enter units:"))
 bill = calculateBill(a)
 bill = bill + bill *.2
 print(bill);
+#Copyright @Amol Paliwal

@@ -7,3 +7,5 @@ for i in range(0,l):
         p=p*a
     ans+=p
 print(ans)
+
+#Copyright @Amol Paliwal

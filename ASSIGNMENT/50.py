@@ -3,3 +3,5 @@ m = s.find(":")
 y = s[m+1:]
 y = float(y)
 print(y)
+
+#Copyright @Amol Paliwal

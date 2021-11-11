@@ -11,3 +11,4 @@ else:
 
 
 print(p>0 and "yes" or "no")
+#Copyright @Amol Paliwal

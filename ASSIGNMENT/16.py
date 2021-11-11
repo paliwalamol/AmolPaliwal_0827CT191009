@@ -11,3 +11,4 @@ if percentage>=75:
 else:
 
         print("The student is not allowed to sit in the exam hall")
+#Copyright @Amol Paliwal

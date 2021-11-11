@@ -10,3 +10,4 @@ def taxes(income):
     return tax
 a=int(input("enter income:"))
 print("tax:" + taxes(a))
+#Copyright @Amol Paliwal

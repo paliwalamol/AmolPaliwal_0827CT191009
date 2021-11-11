@@ -4,3 +4,4 @@ def reverse(s):
 s=input("enter any no:")
 
 print(reverse(s))
+#Copyright @Amol Paliwal

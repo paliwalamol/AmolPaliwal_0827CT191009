@@ -13,3 +13,4 @@ elif third >= first and third >= second:
   print ("Oldest is",third)
 else:
   print ("All are equal")
+#Copyright @Amol Paliwal

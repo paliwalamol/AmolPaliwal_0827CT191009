@@ -7,3 +7,5 @@ def find_longest_word(words_list):
 result = find_longest_word(["PHP", "Exercises", "Backend"])
 print("\nLongest word: ",result[1])
 print("Length of the longest word: ",result[0])
+
+#Copyright @Amol Paliwal

@@ -15,3 +15,4 @@ if(n > 1):
         print("false")
 else:
     print("false")
+#Copyright @Amol Paliwal

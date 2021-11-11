@@ -19,3 +19,4 @@ if isPerfect (n):
         print(n , " is a perfect number")
 else:
     print(n , " is not a perfect number")
+#Copyright @Amol Paliwal

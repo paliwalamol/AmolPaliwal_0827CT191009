@@ -6,3 +6,4 @@ for i in range(0,len(s)):
     else:
        d[s[i]] = 1 
 print(d)
+#Copyright @Amol Paliwal

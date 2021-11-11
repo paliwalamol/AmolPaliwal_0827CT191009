@@ -7,3 +7,4 @@ elif(s.endswith("polis")):
 else:
     # s.replace(s[len(s)-1],s[len(s)-1]+"polis")
     print(s + "polis")
+#Copyright @Amol Paliwal

@@ -6,3 +6,4 @@ def interchange(a,b):
 
 a,b = map(str,input().split(" "))
 interchange(a,b)
+#Copyright @Amol Paliwal

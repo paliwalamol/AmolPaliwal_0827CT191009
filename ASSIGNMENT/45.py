@@ -13,3 +13,5 @@ for key in d.keys():
 for key in d.keys():
     if d[key]==max:
        print(key)
+
+#Copyright @Amol Paliwal

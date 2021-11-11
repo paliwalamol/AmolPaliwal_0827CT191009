@@ -5,3 +5,4 @@ for i in range(len(s)):
 y = y + s.replace(" ","")
 # y=y + s
 print(y)
+#Copyright @Amol Paliwal

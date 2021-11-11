@@ -16,3 +16,4 @@ elif(avg>=40&avg<60):
     print("Grade: E")
 else:
     print("Grade: F")
+#Copyright @Amol Paliwal
